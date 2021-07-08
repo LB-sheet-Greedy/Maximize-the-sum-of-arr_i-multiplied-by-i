@@ -13,6 +13,8 @@ value should be scaled minimum. So we multiply the minimum value of i with the m
 So, sort the given array in increasing order and compute the sum of arr[i]*i, where i = 0 to n-1.
 
 TC => O(nlogn) for sorting
+
+Later on corner cases add karo like size of array should be >=0 and so on
 */
 
 #include<iostream>
